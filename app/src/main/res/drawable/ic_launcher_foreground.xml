@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Camera/glasses icon for FrameFlow -->
+    <group android:scaleX="0.4"
+        android:scaleY="0.4"
+        android:translateX="32.4"
+        android:translateY="32.4">
+        <!-- Glasses frame -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M20,40 L35,40 C40,40 45,45 45,50 C45,55 40,60 35,60 L20,60 C15,60 10,55 10,50 C10,45 15,40 20,40 Z"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M73,40 L88,40 C93,40 98,45 98,50 C98,55 93,60 88,60 L73,60 C68,60 63,55 63,50 C63,45 68,40 73,40 Z"/>
+        <!-- Bridge -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M45,48 L63,48 L63,52 L45,52 Z"/>
+        <!-- Camera dot -->
+        <path
+            android:fillColor="#FF5722"
+            android:pathData="M54,35 m-5,0 a5,5 0 1,1 10,0 a5,5 0 1,1 -10,0"/>
+        <!-- Stream waves -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:strokeWidth="2"
+            android:pathData="M54,70 Q44,80 54,90"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:strokeWidth="2"
+            android:pathData="M54,70 Q64,80 54,90"/>
+    </group>
+</vector>

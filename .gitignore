@@ -1,0 +1,48 @@
+# OS
+.DS_Store
+*.swp
+*~
+Thumbs.db
+
+# Android
+*.apk
+*.aab
+*.dex
+*.class
+*.jar
+*.aar
+bin/
+gen/
+out/
+release/
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.iws
+.cxx/
+local.properties
+captures/
+.externalNativeBuild/
+*.hprof
+
+# Kotlin
+.kotlin/
+
+# Logs
+*.log
+
+# Recording outputs (generated during testing)
+*.mp4
+*.xmp
+*_metadata.json
+
+# Meta DAT SDK (downloaded)
+meta-wearables-dat-android-main/

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FrameFlow</string>
+    
+    <!-- Meta App ID from Wearables Developer Center -->
+    <string name="meta_app_id">1877995796136356</string>
+    
+    <!-- UI Strings -->
+    <string name="setup_title">Setup Stream</string>
+    <string name="stream_key_hint">Enter Stream Key</string>
+    <string name="connect_glasses">Connect to Meta Glasses</string>
+    <string name="save_continue">Save &amp; Continue</string>
+    <string name="go_live">Go Live</string>
+    <string name="stop_all">Stop All</string>
+    <string name="logout">Logout</string>
+    <string name="glasses_offline">Glasses Offline</string>
+    <string name="glasses_status">Glasses: %s</string>
+    <string name="twitch_status">Twitch: %s</string>
+</resources>
